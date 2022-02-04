@@ -1,4 +1,3 @@
-package Daily_practice.Tries;
 import java.util.*;
 public class MpaSumPairs677 {
     public static void main(String[] args) {
