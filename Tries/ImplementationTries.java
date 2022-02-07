@@ -1,6 +1,4 @@
-// tries are optimized data structure that helps in searching a word 
-// with complexity of word length
-package triesClasses;
+package classes;
 class Tries{
     static class Node{
         Node children[];

@@ -1,0 +1,1 @@
+{"name":"Local: RangeAddition","url":"/mnt/D/Project Source/Daily_practice/Array&Strings/RangeAddition.java","tests":[{"id":1644213303524,"input":"4 \n3\n0 2 -1\n2 2 2\n1 3 1","output":"-1 0 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/D/Project Source/Daily_practice/Array&Strings/RangeAddition.java","group":"local","local":true}
