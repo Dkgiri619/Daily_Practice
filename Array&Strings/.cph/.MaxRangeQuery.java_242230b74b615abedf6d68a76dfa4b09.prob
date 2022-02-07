@@ -1,0 +1,1 @@
+{"name":"Local: MaxRangeQuery","url":"/mnt/D/Project Source/Daily_practice/Array&Strings/MaxRangeQuery.java","tests":[{"id":1644224444766,"input":"8\n4\n1 5\n0 3\n2 7\n6 7\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/D/Project Source/Daily_practice/Array&Strings/MaxRangeQuery.java","group":"local","local":true}
